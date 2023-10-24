@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.iconsy{
+    height: 133px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: darkgrey;
+}
+
+.admin{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 24px;
+    font-weight: 400;
+
+}
